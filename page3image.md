@@ -1,6 +1,6 @@
-# Here's our logo (hover to see the title text):
+# Santa Barbara City College:
 
-Reference-style: 
 ![alt text][logo]
 
 [logo]:  	sbcc.jpg "Santa Barbar City College"
+#[Home](homepage.md)
