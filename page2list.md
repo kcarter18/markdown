@@ -6,7 +6,7 @@
 4. And another item.
 # [Home](homepage.md)
 
-'''
+'''html
 <!DOCTYPE html>
 <html>
 <body>
