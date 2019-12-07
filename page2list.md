@@ -13,12 +13,11 @@
 	
 	<script>
 		function ShowMessage(firstName, lastName) {
-			alert("Hello " + firstName + " " + lastName);
+			alert("Hello my name is:  " +  firstName + " " + lastName);
 		}
 
-		ShowMessage("Steve", "Jobs");
-		ShowMessage("Bill", "Gates");
-		ShowMessage(100, 200);
+		ShowMessage("Kason", "Carter");
+
 
     </script>
 </body>
