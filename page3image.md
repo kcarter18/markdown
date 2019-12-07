@@ -7,3 +7,7 @@
 
 
 ![alt text](https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Delta_Upsilon_Coat_of_Arms.png/220px-Delta_Upsilon_Coat_of_Arms.png)
+
+This is the start of a new paragraph.
+
+Another new paragraph.
